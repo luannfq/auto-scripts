@@ -1,0 +1,22 @@
+{
+  "name": "01-new-acc-lms",
+  "version": "1.0.0",
+  "description": "Auto create account on lms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luannfq/auto-scripts.git"
+  },
+  "author": "Van Luan Phan <vanluan.phan@nfq.asia>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luannfq/auto-scripts/issues"
+  },
+  "homepage": "https://github.com/luannfq/auto-scripts#readme",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
